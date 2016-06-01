@@ -1,20 +1,4 @@
-name: Αθηνα
-favicon: null
-layout_spectrum: 0.90205
 typography_spectrum: 0.2708571294788271
-title: Αθηναίων Φως
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#060404'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1408523479476571
   saturation: 0.6142427413724363
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90205
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Αθηνα
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Αθηναίων Φως
 purpose: []
