@@ -31,6 +31,9 @@ navigation:
   - name: Vianna Stibal
     url: 'http://www.thetahealing.com'
     type: external
+  - name: Boris Tichanovsky
+    url: 'http://www.epam.eu'
+    type: external
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
