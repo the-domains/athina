@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T17:15:16.420Z'
+datePublished: '2016-08-13T21:19:11.054Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-13T17:15:15.775Z'
-title: ''
+dateModified: '2016-08-13T21:19:09.464Z'
+title: Αστρικά Εξωσωματικά Ταξίδια Astral Travels/Out of Body Experience
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
     type: ios
@@ -58,7 +58,11 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: From Michael Raduga
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
 description: έρχονται στην Αθήνα στις 16 Σεπτεμβρίου
 inLanguage: en
 starred: false
@@ -72,7 +76,6 @@ _type: VideoObject
 έρχονται στην **Αθήνα** στις _**16 Σεπτεμβρίου**_
 
 από τον **Boris Tichanovky**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f59e43-4a26-4557-ae7a-3ffff23543c3.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOz6Yr2UAb9A%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOz6Yr2UAb9A&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOz6Yr2UAb9A%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
