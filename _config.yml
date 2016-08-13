@@ -1,20 +1,20 @@
-typography_spectrum: 0.9132345872931182
+typography_spectrum: 0.6188227611128241
 color:
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  brandStrength: 0.5927300793118775
-  lightness: 0.1309689893387258
-  saturation: 0.48342516110278666
-  rhythmicContrast: 0.9849709884729236
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.4535150290466845
+  lightness: 0.8919009263627231
+  saturation: 0.9281341244932264
+  rhythmicContrast: 0.44916648766957223
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.6442516832612455
+layout_spectrum: 0.4561088182963431
 analytics:
   google: null
   facebook: null
@@ -30,9 +30,6 @@ navigation:
     type: external
   - name: Vianna Stibal
     url: 'http://www.thetahealing.com'
-    type: external
-  - name: Boris Tichanovsky
-    url: 'http://www.epam.eu'
     type: external
   - name: Pichest Boonthumme
     url: 'https://www.facebook.com/groups/172526076174229/'
