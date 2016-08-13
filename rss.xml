@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Αθηναίων Φώς]]></title>
+        <description><![CDATA[Αθηναίων Φώς]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 11:07:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Αστρικά Εξωσωματικά Ταξίδια - Astral Travels/Out of Body Experience]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f59e43-4a26-4557-ae7a-3ffff23543c3.jpg">]]></description>
+            <link>https://www.youtube.com/watch?v=Oz6Yr2UAb9A</link>
+            <guid isPermaLink="false">7c202e85-acbd-45ac-8f1f-d2e33f023c49</guid>
+            <pubDate>Sat, 13 Aug 2016 11:07:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
