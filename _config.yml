@@ -28,6 +28,9 @@ navigation:
   - name: Vipassana Master
     url: 'http://www.dhiravamsa.com/'
     type: external
+  - name: Vianna Stibal
+    url: 'http://www.thetahealing.com'
+    type: external
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
