@@ -37,6 +37,9 @@ navigation:
   - name: Pichest Boonthumme
     url: 'https://www.facebook.com/groups/172526076174229/'
     type: external
+  - name: Tatsuo Suzuki
+    url: 'https://en.wikipedia.org/wiki/Tatsuo_Suzuki_(martial_artist)'
+    type: external
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
