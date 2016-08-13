@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Vipassana Master
+    url: www.dhiravamsa.com
+    type: external
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
