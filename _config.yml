@@ -37,6 +37,9 @@ navigation:
   - name: Tatsuo Suzuki
     url: 'https://en.wikipedia.org/wiki/Tatsuo_Suzuki_(martial_artist)'
     type: external
+  - name: Boris Tichanovsky
+    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
