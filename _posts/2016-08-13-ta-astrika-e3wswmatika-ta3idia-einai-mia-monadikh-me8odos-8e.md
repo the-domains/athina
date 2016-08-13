@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-13T21:29:58.741Z'
+datePublished: '2016-08-13T21:33:48.918Z'
 sourcePath: >-
   _posts/2016-08-13-ta-astrika-e3wswmatika-ta3idia-einai-mia-monadikh-me8odos-8e.md
 author: []
 via: {}
-dateModified: '2016-08-13T21:29:58.180Z'
+dateModified: '2016-08-13T21:33:46.693Z'
 title: ''
 publisher: {}
 description: >-
