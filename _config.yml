@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Vipassana Master
+  - name: Dhiravamsa
     url: 'http://www.dhiravamsa.com/'
     type: external
   - name: Vianna Stibal
