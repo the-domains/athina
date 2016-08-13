@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T11:20:33.075Z'
+datePublished: '2016-08-13T11:22:13.670Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-13T11:20:32.388Z'
+dateModified: '2016-08-13T11:22:12.861Z'
 title: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
