@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T10:47:04.242Z'
+datePublished: '2016-08-13T10:47:40.557Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -15,11 +15,11 @@ keywords:
   - contracted
 related: []
 author:
-  - name: George Christodoulou
+  - name: ''
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-13T10:47:03.382Z'
+dateModified: '2016-08-13T10:47:39.637Z'
 title: Αστρικά Εξωσωματικά Ταξίδια - Astral Travels/Out of Body Experience
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
