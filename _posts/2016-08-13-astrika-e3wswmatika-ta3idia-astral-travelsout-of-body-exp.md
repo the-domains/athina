@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T11:19:15.706Z'
+datePublished: '2016-08-13T11:20:33.075Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-13T11:19:14.963Z'
+dateModified: '2016-08-13T11:20:32.388Z'
 title: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
@@ -59,7 +59,7 @@ app_links:
     namespace: google
     type: ios
 publisher: {}
-description: …. έρχονται στην Αθήνα στις 16 Σεπτεμβρίου
+description: έρχονται στην Αθήνα στις 16 Σεπτεμβρίου
 inLanguage: en
 starred: false
 inFeed: true
@@ -69,7 +69,7 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-.... έρχονται στην **Αθήνα** στις _**16 Σεπτεμβρίου**_
+έρχονται στην **Αθήνα** στις _**16 Σεπτεμβρίου**_
 
 από τον **Boris Tichanovky**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f59e43-4a26-4557-ae7a-3ffff23543c3.jpg)
