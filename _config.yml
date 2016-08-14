@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Vianna Stibal
-    url: 'http://www.thetahealing.com'
-    type: external
   - name: Tatsuo Suzuki
     url: 'https://en.wikipedia.org/wiki/Tatsuo_Suzuki_(martial_artist)'
     type: external
