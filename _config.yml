@@ -31,22 +31,10 @@ navigation:
   - name: Tatsuo Suzuki
     url: 'https://en.wikipedia.org/wiki/Tatsuo_Suzuki_(martial_artist)'
     type: external
-  - name: Boris Tichanovsky
-    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
-    type: content
-  - name: Dhiravamsa
-    id: 06689c93-f5d7-46ff-abe5-ad54a5cd1387
-    type: content
   - name: Pichest Boonthumme
     url: >-
       https://thaitravellers.wordpress.com/2009/11/04/one-week-with-pichest-boonthumme/
     type: external
-  - name: Το σεμινάριο των Αστρικών Ταξιδιών
-    id: 9cc72bdb-975c-4b6f-9555-e3fc6713890e
-    type: content
-  - name: Γιώργος & Μαγδαλένα
-    id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
-    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
