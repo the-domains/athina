@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-13T21:58:40.449Z'
+datePublished: '2016-08-14T11:32:29.837Z'
 sourcePath: >-
   _posts/2016-08-13-o-boris-tichanovsky-8a-sas-dida3ei-mia-entelws-asfalh-texnik.md
 isBasedOnUrl: ''
 author: []
 via: {}
-dateModified: '2016-08-13T21:58:39.804Z'
+dateModified: '2016-08-14T11:32:29.206Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   Βασίζεται στην μεθοδολογία του Michael Raduga & αρχαίων μάστερς. Συνδυάστε τη
   γνώση του σύγχρονου κόσμου με τις μεγάλες αλήθειες που έχουν διασωθεί από τα
   βάθη του χρόνου. Το μάθημα θα επικεντρωθεί κυρίως στην ιατρικές και
-  θεραπευτικές πτυχές αυτής της μεθόδου. 
+  θεραπευτικές πτυχές αυτής της μεθόδου.
 starred: false
 inFeed: true
 hasPage: false
