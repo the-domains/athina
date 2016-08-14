@@ -41,6 +41,9 @@ navigation:
     url: >-
       https://thaitravellers.wordpress.com/2009/11/04/one-week-with-pichest-boonthumme/
     type: external
+  - name: Το σεμινάριο των Αστρικών Ταξιδιών
+    id: 9cc72bdb-975c-4b6f-9555-e3fc6713890e
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
