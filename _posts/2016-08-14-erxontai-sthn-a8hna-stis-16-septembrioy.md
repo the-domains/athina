@@ -1,17 +1,16 @@
 ---
 description: έρχονται στην Αθήνα στις 16 Σεπτεμβρίου
-dateModified: '2016-08-14T07:03:02.225Z'
-datePublished: '2016-08-14T07:03:13.376Z'
+dateModified: '2016-08-14T11:18:41.251Z'
+datePublished: '2016-08-14T11:18:42.057Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-erxontai-sthn-a8hna-stis-16-septembrioy.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: erxontai-sthn-a8hna-stis-16-septembrioy/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeddf4f5-d967-44dc-9563-2157d918822a.jpg)
