@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Boris Tichanovsky
+    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
