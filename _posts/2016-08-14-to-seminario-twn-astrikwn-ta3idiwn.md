@@ -1,13 +1,13 @@
 ---
-description: Το Σεμινάριο των Αστρικών Ταξιδιών
-dateModified: '2016-08-14T08:11:57.900Z'
-datePublished: '2016-08-14T08:11:58.758Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-14T09:06:32.065Z'
 sourcePath: _posts/2016-08-14-to-seminario-twn-astrikwn-ta3idiwn.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-14T09:06:31.498Z'
+title: ''
+publisher: {}
+description: Το Σεμινάριο των Αστρικών Ταξιδιών
 starred: false
 url: to-seminario-twn-astrikwn-ta3idiwn/index.html
 _type: Blurb
@@ -16,3 +16,13 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/090262a1-2c4a-4697-8134-0b223e205c95.jpg)
 
 Το Σεμινάριο των Αστρικών Ταξιδιών
+
+To σεμινάριο κοστίζει 300 Ευρώ σύν το Φ.Π.Α.   
+Yπάρχει έκπτωση στην τιμή κατά 50 Ευρώ εάν κάποιος καταβάλει προκαταβολή   
+για το σεμινάριο μέχρι της 20 Αυγούστου. Η προκαταβολή είναι 70 ευρώ.   
+Οι θέσεις είναι περιορισμένες. Θα τηρηθεί σειρά προτεραιότητας.
+
+H προκαταβολή θα μπεί στην Τράπεζα Πειραιώς,   
+Αριθμός Λογαριασμού IBAN: GR24 0172 5070 0055 0705 3267 985,   
+Δικαιούχος: Μαγδαλένα Μαντά   
+Λόγος κατάθεσης: Σεμινάριο Αστρικών Ταξιδιών
