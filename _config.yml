@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Tatsuo Suzuki
-    url: 'https://en.wikipedia.org/wiki/Tatsuo_Suzuki_(martial_artist)'
-    type: external
   - name: Pichest Boonthumme
     url: >-
       https://thaitravellers.wordpress.com/2009/11/04/one-week-with-pichest-boonthumme/
