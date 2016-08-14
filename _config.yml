@@ -37,6 +37,10 @@ navigation:
   - name: Dhiravamsa's Biography
     id: 06689c93-f5d7-46ff-abe5-ad54a5cd1387
     type: content
+  - name: Pichest Boonthumme
+    url: >-
+      https://thaitravellers.wordpress.com/2009/11/04/one-week-with-pichest-boonthumme/
+    type: external
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
