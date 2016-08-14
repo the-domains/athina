@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-13T21:51:47.076Z'
+datePublished: '2016-08-14T07:07:59.721Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-13T21:51:46.526Z'
+dateModified: '2016-08-14T07:02:18.223Z'
 title: Αστρικά Εξωσωματικά Ταξίδια Astral Travels/Out of Body Experience
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
@@ -63,7 +63,7 @@ publisher:
   name: From Michael Raduga
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: έρχονται στην Αθήνα στις 16 Σεπτεμβρίου
+description: This is a trailer for Astral Travels/Out of Body Experience
 inLanguage: en
 starred: false
 inFeed: true
@@ -73,10 +73,4 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-έρχονται στην **Αθήνα** στις _**16 Σεπτεμβρίου**_
-
-από τον **Boris Tichanovky**
-
-Τα Αστρικά Εξωσωματικά Ταξίδια είναι μια μοναδική μέθοδος θεραπείας που μπορούν να βοηθήσει, όταν όλες οι άλλες μέθοδοι θεραπείας έχουν αποτύχει. Έχουν πολλές πρακτικές χρήσεις. Κατά τη διάρκεια του αστρικού ταξιδιού, μπορείτε να βρείτε περισσότερες από τις απαντήσεις στα σημαντικά ερωτήματα - Ποιοί είμαστε; Γιατί είμαστε εδώ? Πού πάμε; Υπάρχουν προηγούμενες ζωές και ζωή μετά το θάνατο; Ποιος και για ποιό σκοπό μας δημιούργησε; Μπορούμε να απαντήσουμε σε αυτές τις ερωτήσεις ως βαθιά θρησκευόμενοι άνθρωποι αλλά και ως άθεοι. Παρόλα αυτά είναι γεγονός ότι μετά τις απαντήσεις δεν υπάρχει λόγος ύπαρξης αθεϊσμού.
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOz6Yr2UAb9A%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOz6Yr2UAb9A&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOz6Yr2UAb9A%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
