@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Dhiravamsa
-    url: 'http://www.dhiravamsa.com/'
-    type: external
   - name: Vianna Stibal
     url: 'http://www.thetahealing.com'
     type: external
