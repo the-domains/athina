@@ -7,25 +7,24 @@ description: >-
   both at the Traditional Monastic Schools for Dharma and Pali Studies and at
   the Buddhist University, Mahachulalongkorn Rajavidyalaya. His accomplishments
   in the Thai Buddhist Monastery include attaining the position of Preceptor
-  (Upajjháya), becoming Abbot of the Thai Temple (Wat Buddhapadípa) in London,
+  (Upajjháya),becoming Abbot of the Thai Temple (Wat Buddhapadípa) in London,
   England, and being appointed Chief of the Thai Buddhist Mission in the West
   and an International Insight Meditation Master. In addition, he achieved the
   appointment to the rank of Chao Khun (equivalent to Bishop) with the Royal
   Name of Phra Sobhana Dhammasudhí (the wise and beautiful in the Dharma,) a
   highly respected position in the Thai Monastic System when he was only
   thirty-two years old (1966). He is also a Vipassana Master.
-dateModified: '2016-08-14T06:14:08.230Z'
-datePublished: '2016-08-14T06:21:00.602Z'
+dateModified: '2016-08-14T06:22:47.780Z'
+datePublished: '2016-08-14T06:22:48.466Z'
 title: Dhiravamsa's Biography
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-dhiravamsas-biography.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: dhiravamsas-biography/index.html
+_type: Blurb
 
 ---
 ## Dhiravamsa's Biography
