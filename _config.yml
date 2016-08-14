@@ -24,16 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Γιώργος & Μαγδαλένα
-    id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
-    type: content
-  - name: Boris Tichanovsky
-    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
-    type: content
-  - name: Το σεμιάριο των Αστρικών Ταξιδιών
-    id: 40ddfd87-ab92-44e3-83a9-243e5020b264
-    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
