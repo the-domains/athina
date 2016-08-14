@@ -41,6 +41,9 @@ navigation:
   - name: Boris Tichanovsky
     id: bbef3897-19de-4a72-93fd-ca8ece6bd800
     type: content
+  - name: Το σεμιάριο των Αστρικών Ταξιδιών
+    id: 40ddfd87-ab92-44e3-83a9-243e5020b264
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
