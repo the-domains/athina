@@ -37,6 +37,9 @@ navigation:
   - name: Boris Tichanovsky
     id: bbef3897-19de-4a72-93fd-ca8ece6bd800
     type: content
+  - name: Dhiravamsa's Biography
+    id: 06689c93-f5d7-46ff-abe5-ad54a5cd1387
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 purpose: []
