@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T06:32:36.667Z'
+datePublished: '2016-08-14T06:33:54.668Z'
 sourcePath: _posts/2016-08-14-dhiravamsas-biography.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T06:28:35.022Z'
+dateModified: '2016-08-14T06:33:54.052Z'
 title: Dhiravamsa's Biography
 publisher: {}
 description: >-
