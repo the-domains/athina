@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T10:38:21.591Z'
+datePublished: '2016-08-20T10:41:29.883Z'
 sourcePath: >-
   _posts/2016-08-20-o-boris-tichanovsky-8a-sas-dida3ei-mia-entelws-asfalh-texnik.md
 author: []
 via: {}
-dateModified: '2016-08-20T10:38:21.006Z'
+dateModified: '2016-08-20T10:41:28.959Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,3 +24,4 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d111d0db-732d-4d26-81ef-f7e9d9e83e86.jpg)
 
 Ο Boris Tichanovský θα σας διδάξει μια εντελώς ασφαλή τεχνική για αστρικά ταξίδια Θα σας μάθει την δική του μέθοδο της εξόδου του αστρικού από το σώμα. Βασίζεται στην μεθοδολογία του Michael Raduga & αρχαίων μάστερς. Συνδυάστε τη γνώση του σύγχρονου κόσμου με τις μεγάλες αλήθειες που έχουν διασωθεί από τα βάθη του χρόνου. Το μάθημα θα επικεντρωθεί κυρίως στην ιατρικές και θεραπευτικές πτυχές αυτής της μεθόδου.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7523bc3c-c370-4bc7-8e1a-c84a17940f1c.jpg)
