@@ -24,7 +24,7 @@ author:
   email: christodoulou_george@yahoo.co.uk
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/939b40ba-f860-44c0-b7d8-52b665b45d68.jpg
-name: Aστρικά Εξωσωματικά Ταξίδια
+name: 'Aστρικά Εξωσωματικά Ταξίδια, Αποκατάσταση της Ορασης, Ρέικι'
 cta:
   domain: null
   bucket: null
@@ -36,11 +36,11 @@ navigation:
   - name: Boris Tichanovsky
     id: bbef3897-19de-4a72-93fd-ca8ece6bd800
     type: content
-  - name: Το σεμινάρια Ἀστρικά Ταξίδια᾽
-    id: 9cc72bdb-975c-4b6f-9555-e3fc6713890e
-    type: content
   - name: Επικοινωνία
     id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
+    type: content
+  - name: Το σεμινάρια Ἀστρικά Ταξίδια᾽
+    id: 9cc72bdb-975c-4b6f-9555-e3fc6713890e
     type: content
 favicon: null
 title: Αθηναίων Φώς
