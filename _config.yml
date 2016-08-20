@@ -39,6 +39,9 @@ navigation:
   - name: Επικοινωνία
     id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
     type: content
+  - name: Σχετικά με Εμάς
+    id: 9bf9c145-f21e-488e-904f-19b06b1e8df9
+    type: content
 favicon: null
 title: Αθηναίων Φώς
 description: Αθηναίων Φώς
