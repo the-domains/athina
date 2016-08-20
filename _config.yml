@@ -33,9 +33,6 @@ navigation:
   - name: Ποιοί είμαστε
     id: 9bf9c145-f21e-488e-904f-19b06b1e8df9
     type: content
-  - name: Boris Tichanovsky
-    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
-    type: content
   - name: Επικοινωνία
     id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
     type: content
