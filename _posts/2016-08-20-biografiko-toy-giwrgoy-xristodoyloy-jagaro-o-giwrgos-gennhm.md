@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-20T11:41:34.247Z'
+datePublished: '2016-08-20T11:45:57.793Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T11:41:33.586Z'
+dateModified: '2016-08-20T11:45:57.555Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,7 +35,7 @@ url: biografiko-toy-giwrgoy-xristodoyloy-jagaroo-giwrgos-gennhme/index.html
 _type: Blurb
 
 ---
-> Γιώργος Χριστοδούλου Jagaro
+> Γιώργος Χριστοδούλου Jagaro"
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d86f683b-3207-4adc-82d0-788801a10dac.jpg)
 
@@ -52,7 +52,7 @@ _type: Blurb
 Εκτός από τα παραπάνω άρχισε να αναπτύσσεται στην Εναλλακτικές Θεραπείες. Σπούδασε Ταϊλανδέζικο μασάζ, σε πολύ γνωστά και εξαιρετικά σχολεία   
 (ITM - International Training Massage School, Loi Kroh Traditional Thai Massage School & Yoga) και δασκάλους μεταξύ των οποίων και ο Master Pichest Boonthume. Έχει πάνω από 700 ώρες εκπαίδευσης και δίδαξε τα τελευταία 10 χρόνια στον Καναδά, στην Ισπανία και στην Ελλάδα.   
 Παράλληλα σπούδασε και έχει εμπειρία στην Ενεργειακή ψυχοθεραπεία (Theta Healing, συμβουλευτική) και Αναγνώσεις της Αύρας.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffb5bc4-3d3a-4b63-8e5a-7a4e12da2ac1.png)
+![Boris Tichanovsky](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffb5bc4-3d3a-4b63-8e5a-7a4e12da2ac1.png)
 
 Ο Boris Tichanovský είναι ένας εξαιρετικός χειροπράκτης ασκητής της διαισθητικής διάγνωσης. Ασκεί έξοχα βιοενεργητική, βελονισμό, δακτυλοπιέσεις και ύπνωση. Ο Boris Tichanovský θεραπεύει επίσης και διδάσκει μια ποικιλία από μασάζ, όπως σιάτσου, του Θιβέτ, της Ταϊλάνδης, της Κίνας, της Μογγολίας, της Αιγύπτου, και Σούφικου. Όταν κάνει θεραπείες χρησιμοποιεί, θιβετανικούς μυστικούς ύμνους και ήχους δημιουργώντας ένα πεδίο τρανς.  
 Είναι δάσκαλος και Μάστερ του Ρέικι, της Κινέζικης Παραδοσιακής Ιατρικής και της πολεμικής τέχνης Ται Τσι Τσουάν.
