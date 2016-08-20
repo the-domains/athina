@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T10:55:02.741Z'
+datePublished: '2016-08-20T11:18:32.150Z'
 sourcePath: >-
   _posts/2016-08-20-o-boris-tichanovsky-8a-sas-dida3ei-mia-entelws-asfalh-texnik.md
 author: []
 via: {}
-dateModified: '2016-08-20T10:55:01.899Z'
+dateModified: '2016-08-20T11:18:30.910Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   γνώση του σύγχρονου κόσμου με τις μεγάλες αλήθειες που έχουν διασωθεί από τα
   βάθη του χρόνου. Το μάθημα θα επικεντρωθεί κυρίως στην ιατρικές και
   θεραπευτικές πτυχές αυτής της μεθόδου.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
