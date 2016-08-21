@@ -42,6 +42,9 @@ navigation:
   - name: Σεμινάριο Αποκατάστασης της Όρασης
     id: 180b9834-56e3-4325-b250-b1b5742e2748
     type: content
+  - name: Σεμινάριο Ρέικι
+    id: bbef3897-19de-4a72-93fd-ca8ece6bd800
+    type: content
 favicon: null
 title: Κέντρο Ολιστικής Ανάπτυξης και Θεραπείας
 description: Αθηναίων Φώς
