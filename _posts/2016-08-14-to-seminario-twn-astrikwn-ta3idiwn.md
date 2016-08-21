@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T20:44:52.520Z'
+datePublished: '2016-08-20T20:30:34.955Z'
 sourcePath: _posts/2016-08-14-to-seminario-twn-astrikwn-ta3idiwn.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T20:44:51.114Z'
+dateModified: '2016-08-20T20:30:34.835Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,7 +12,7 @@ description: >-
   κέντρου είναι Δανίλη 3, Ν.Κόσμος, 11744, Αθήνα. Για να το βρείτε εύκολα
   παρακάτω είναι ο σύνδεσμος:
 starred: false
-url: to-seminario-twn-astrikwn-ta3idiwn/index.html
+url: to-seminario-twn-astrikwn-ta3idiwn-8a-ginei-sto-a8hnaiwn-fws/index.html
 _type: Blurb
 
 ---
