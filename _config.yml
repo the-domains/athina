@@ -45,6 +45,9 @@ navigation:
   - name: Σεμινάριο Ρέικι
     id: bbef3897-19de-4a72-93fd-ca8ece6bd800
     type: content
+  - name: Σεμινάριο Ρέικι
+    id: e7f44021-5348-443c-97b7-27ead668248c
+    type: content
 favicon: null
 title: Κέντρο Ολιστικής Ανάπτυξης και Θεραπείας
 description: Αθηναίων Φώς
