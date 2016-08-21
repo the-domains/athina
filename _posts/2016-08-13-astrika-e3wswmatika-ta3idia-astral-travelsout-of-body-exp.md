@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T21:12:51.347Z'
+datePublished: '2016-08-21T16:48:31.111Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,8 +19,8 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T21:12:50.626Z'
-title: 'Διαυγή Ονειρα/Αστρικά Εξωσωματικά Ταξίδια: διδάσκει  ο Boris Tichanovsky'
+dateModified: '2016-08-21T16:48:30.557Z'
+title: 'Διαυγή Ονειρα/Αστρικά Εξωσωματικά Ταξίδια: διδάσκει ο Boris Tichanovsky'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
     type: ios
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
 description: This is a trailer for Astral Travels/Out of Body Experience
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
