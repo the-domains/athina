@@ -4,19 +4,18 @@ description: >-
   Aγάπης. Ένα μεγάλο δώρο που έχει δοθεί στον άνθρωπο από τον Θεό. Είναι η
   ικανότητα μετάδοσης της ενέργειας μέσω των χεριών προκειμένου να θεραπευθούν
   σωματικές, ψυχικές και πνευματικές πτυχές του ανθρώπου.
-dateModified: '2016-08-14T20:39:56.355Z'
-datePublished: '2016-08-21T11:41:34.086Z'
+dateModified: '2016-08-21T11:52:01.413Z'
+datePublished: '2016-08-21T11:52:02.271Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-21-to-reiki-einai-mia-monadikh-energeia-zwhs-einai-h-8erapeyti.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: to-reiki-einai-mia-monadikh-energeia-zwhs-einai-h-8erapeyti/index.html
+_type: Blurb
 
 ---
 Το Ρέικι είναι μια μοναδική ενέργεια ζωής, είναι η θεραπευτική δύναμη της Aγάπης. Ένα μεγάλο δώρο που έχει δοθεί στον άνθρωπο από τον Θεό. Είναι η ικανότητα μετάδοσης της ενέργειας μέσω των χεριών προκειμένου να θεραπευθούν σωματικές, ψυχικές και πνευματικές πτυχές του ανθρώπου.
