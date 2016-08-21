@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T20:37:52.639Z'
+datePublished: '2016-08-20T20:41:23.350Z'
 sourcePath: _posts/2016-08-14-to-seminario-twn-astrikwn-ta3idiwn.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T20:37:51.979Z'
+dateModified: '2016-08-20T20:41:22.655Z'
 title: ''
 publisher: {}
 description: >-
