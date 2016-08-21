@@ -36,7 +36,7 @@ navigation:
   - name: Επικοινωνία
     id: cc06010a-3ec4-4d2e-864c-7e3ac9a4a543
     type: content
-  - name: Σεμινάρια Aστρικών Ταξιδιών
+  - name: Σεμινάριο Aστρικών Ταξιδιών
     id: 9cc72bdb-975c-4b6f-9555-e3fc6713890e
     type: content
 favicon: null
