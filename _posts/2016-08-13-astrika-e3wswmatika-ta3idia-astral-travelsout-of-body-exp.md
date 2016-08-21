@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T20:59:55.582Z'
+datePublished: '2016-08-20T21:00:01.207Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T20:59:54.933Z'
+dateModified: '2016-08-20T21:00:00.725Z'
 title: Διαυγή Ονειρα/Αστρικά Εξωσωματικά Ταξίδια
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
 description: This is a trailer for Astral Travels/Out of Body Experience
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
