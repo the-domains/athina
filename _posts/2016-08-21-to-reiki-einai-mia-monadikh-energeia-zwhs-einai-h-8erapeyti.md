@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-21T13:31:44.795Z'
+datePublished: '2016-08-21T13:42:47.580Z'
 sourcePath: >-
   _posts/2016-08-21-to-reiki-einai-mia-monadikh-energeia-zwhs-einai-h-8erapeyti.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T13:31:43.966Z'
+dateModified: '2016-08-21T13:42:46.549Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,6 +18,8 @@ url: to-reiki-einai-mia-monadikh-energeia-zwhs-einai-h-8erapeyti/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd5fcee5-c2f8-4e18-a6a1-1db65a0624ea.jpg)
+
 _**Το Ρέικι είναι μια μοναδική ενέργεια ζωής, είναι η θεραπευτική δύναμη της Aγάπης. **_Ένα μεγάλο δώρο που έχει δοθεί στον άνθρωπο από τον Θεό. _**Είναι η ικανότητα μετάδοσης της ενέργειας μέσω των χεριών προκειμένου να θεραπευθούν σωματικές, ψυχικές και πνευματικές πτυχές του ανθρώπου.**_
 
 To Ρέικι ήταν ένα μέρος της σφαιρικής γνώσης που κάποτε υπήρξε την Γη. Δυστυχώς η γνώση αυτή με την πάροδο του χρόνου εξασθένησε και μας έμειναν κομμάτια από εδώ και από κει.
