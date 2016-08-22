@@ -1,4 +1,3 @@
-layout_spectrum: 0.14133016858249903
 typography_spectrum: 0.2043483352754265
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.14133016858249903
 analytics:
   google: null
   facebook: null
@@ -42,7 +42,7 @@ navigation:
   - name: Σεμινάριο Αποκατάστασης της Όρασης
     id: 180b9834-56e3-4325-b250-b1b5742e2748
     type: content
-  - name: Σεμινάριο Ρέικι
+  - name: 'Σεμινάριο Ρέικι (Usui, Chakra, Kuntalini'
     id: e7f44021-5348-443c-97b7-27ead668248c
     type: content
 favicon: null
