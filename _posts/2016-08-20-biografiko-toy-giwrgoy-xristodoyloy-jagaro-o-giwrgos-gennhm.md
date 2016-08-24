@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-20T11:56:21.946Z'
+datePublished: '2016-08-24T06:51:45.091Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T11:56:20.874Z'
+dateModified: '2016-08-24T06:50:33.359Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -67,4 +67,4 @@ _type: Blurb
 
 Εκτός από τα παραπάνω άρχισε να αναπτύσσεται στην Εναλλακτικές Θεραπείες. Σπούδασε Ταϊλανδέζικο μασάζ, σε πολύ γνωστά και εξαιρετικά σχολεία   
 (ITM - International Training Massage School, Loi Kroh Traditional Thai Massage School & Yoga) και δασκάλους μεταξύ των οποίων και ο Master Pichest Boonthume. Έχει πάνω από 700 ώρες εκπαίδευσης και δίδαξε τα τελευταία 10 χρόνια στον Καναδά, στην Ισπανία και στην Ελλάδα.   
-Παράλληλα σπούδασε και έχει εμπειρία στην Ενεργειακή ψυχοθεραπεία (Theta Healing, συμβουλευτική) και Αναγνώσεις της Αύρας.
+Παράλληλα σπούδασε και έχει εμπειρία στην Ενεργειακή ψυχοθεραπεία (Theta Healing, συμβουλευτική), Αναγνώσεις της Αύρας και Ρέικι.
