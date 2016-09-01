@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:22:17.109Z'
+datePublished: '2016-08-30T09:24:43.608Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:22:16.555Z'
+dateModified: '2016-08-30T09:24:26.836Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -72,5 +72,5 @@ _type: Blurb
 ### Μαγδαλένα Μαντά Χοτολεάνου (Magdalena Manta Hotoleanu)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d261e30c-2fd4-4f8e-8948-ba4364409f68.jpg)
 
-Νικόλαος Ζωρόθεος
+### Νικόλαος Ζωρόθεος (Nikolaos Zorotheos)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bc99ea-9889-4a32-a809-e015f2ba1555.jpg)
