@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:12:33.402Z'
+datePublished: '2016-08-30T09:12:36.884Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:12:11.438Z'
+dateModified: '2016-08-30T09:12:36.270Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -69,4 +69,5 @@ _type: Blurb
 (ITM - International Training Massage School, Loi Kroh Traditional Thai Massage School & Yoga) και δασκάλους μεταξύ των οποίων και ο Master Pichest Boonthume. Έχει πάνω από 700 ώρες εκπαίδευσης και δίδαξε τα τελευταία 10 χρόνια στον Καναδά, στην Ισπανία και στην Ελλάδα.   
 Παράλληλα σπούδασε και έχει εμπειρία στην Ενεργειακή ψυχοθεραπεία (Theta Healing, συμβουλευτική), Αναγνώσεις της Αύρας και Ρέικι.
 
-Mαγδαλένα Μαντά Χοτολεάνου ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d261e30c-2fd4-4f8e-8948-ba4364409f68.jpg)
+Mαγδαλένα Μαντά Χοτολεάνου (Magdalena Manta Hotoleanu)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d261e30c-2fd4-4f8e-8948-ba4364409f68.jpg)
