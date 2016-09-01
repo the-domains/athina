@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:16:35.392Z'
+datePublished: '2016-08-30T09:22:13.690Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:16:34.931Z'
+dateModified: '2016-08-30T09:22:06.941Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -23,8 +23,6 @@ _type: Blurb
 
 ---
 ### Boris Tichanovsky
-
-### Mαγδαλένα Μαντά Χοτολεάνου (Magdalena Manta Hotoleanu
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f17a9835-c40b-4418-bcbd-4cce58139fdc.png)
 
 Ο Boris Tichanovský είναι ένας εξαιρετικός χειροπράκτης ασκητής της διαισθητικής διάγνωσης. Ασκεί έξοχα βιοενεργητική, βελονισμό, δακτυλοπιέσεις και ύπνωση. Ο Boris Tichanovský θεραπεύει επίσης και διδάσκει μια ποικιλία από μασάζ, όπως σιάτσου, του Θιβέτ, της Ταϊλάνδης, της Κίνας, της Μογγολίας, της Αιγύπτου, και Σούφικου. Όταν κάνει θεραπείες χρησιμοποιεί, θιβετανικούς μυστικούς ύμνους και ήχους δημιουργώντας ένα πεδίο τρανς.  
@@ -71,5 +69,8 @@ _type: Blurb
 (ITM - International Training Massage School, Loi Kroh Traditional Thai Massage School & Yoga) και δασκάλους μεταξύ των οποίων και ο Master Pichest Boonthume. Έχει πάνω από 700 ώρες εκπαίδευσης και δίδαξε τα τελευταία 10 χρόνια στον Καναδά, στην Ισπανία και στην Ελλάδα.   
 Παράλληλα σπούδασε και έχει εμπειρία στην Ενεργειακή ψυχοθεραπεία (Theta Healing, συμβουλευτική), Αναγνώσεις της Αύρας και Ρέικι.
 
-### Μαγδαλένα Μαντά Χοτολεάνου(Magdalena Manta Hotoleanu)
+### Μαγδαλένα Μαντά Χοτολεάνου (Magdalena Manta Hotoleanu)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d261e30c-2fd4-4f8e-8948-ba4364409f68.jpg)
+
+Νικόλαος Ζωρόθεος
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bc99ea-9889-4a32-a809-e015f2ba1555.jpg)
