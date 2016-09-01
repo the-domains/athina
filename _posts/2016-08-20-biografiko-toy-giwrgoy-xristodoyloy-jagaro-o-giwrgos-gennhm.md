@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:16:32.557Z'
+datePublished: '2016-08-30T09:16:35.392Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:16:32.333Z'
+dateModified: '2016-08-30T09:16:34.931Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
