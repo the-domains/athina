@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:32:05.249Z'
+datePublished: '2016-08-30T09:35:43.863Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:31:59.309Z'
+dateModified: '2016-08-30T09:35:40.190Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   και ύπνωση. Ο Boris Tichanovský θεραπεύει επίσης και διδάσκει μια ποικιλία από
   μασάζ, όπως σιάτσου, του Θιβέτ, της Ταϊλάνδης, της Κίνας, της Μογγολίας, της
   Αιγύπτου, και Σούφικου. Όταν κάνει θεραπείες χρησιμοποιεί, θιβετανικούς
-  μυστικούς ύμνους και ήχους δημιουργώντας ένα πεδίο τρανς. Είναι δάσκαλος και
+  μυστικούς ύμνους και ήχους δημιουργώντας ένα πεδίο τρανς.Είναι δάσκαλος και
   Μάστερ του Ρέικι, της Κινέζικης Παραδοσιακής Ιατρικής και της πολεμικής τέχνης
   Ται Τσι Τσουάν.
 starred: false
@@ -76,3 +76,4 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bc99ea-9889-4a32-a809-e015f2ba1555.jpg)
 
 ### Μαριαλένα Νικολοβγένη (Marialena Nikolovgeni)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2905f002-90b6-43b0-a664-8430a4467df8.jpg)
