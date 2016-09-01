@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T09:31:42.794Z'
+datePublished: '2016-08-30T09:32:05.249Z'
 sourcePath: >-
   _posts/2016-08-20-biografiko-toy-giwrgoy-xristodoyloy-jagaro-o-giwrgos-gennhm.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T09:31:34.629Z'
+dateModified: '2016-08-30T09:31:59.309Z'
 title: Boris Tichanovsky
 publisher: {}
 description: >-
@@ -75,4 +75,4 @@ _type: Blurb
 ### Νικόλαος Ζωρόθεος (Nikolaos Zorotheos)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bc99ea-9889-4a32-a809-e015f2ba1555.jpg)
 
-Μαριαλένα Νικολοβγένη (Marialena Niko
+### Μαριαλένα Νικολοβγένη (Marialena Nikolovgeni)
