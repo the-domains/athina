@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T18:25:48.559Z'
+datePublished: '2016-08-31T18:28:13.430Z'
 sourcePath: _posts/2016-08-13-astrika-e3wswmatika-ta3idia-astral-travelsout-of-body-exp.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz6Yr2UAb9A'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCmmvsf1WiLlrFkbAdO2ejGg'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T18:25:47.840Z'
+dateModified: '2016-08-31T18:28:12.752Z'
 title: 'Ζωντανά Ονειρα/Αστρικά Εξωσωματικά Ταξίδια:  διδάσκει ο Boris Tichanovsky …'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Oz6Yr2UAb9A&feature=applinks'
